@@ -1,0 +1,3 @@
+module Logfrill
+  VERSION = "0.0.1"
+end
