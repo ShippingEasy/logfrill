@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Logfrill::VERSION
   spec.authors       = ["Lance Woodson"]
   spec.email         = ["lance@webmaneuvers.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Adds frills to ruby logging to enhance use in larger, distirbuted systems}
+  spec.description   = %q{output is in json format, adds metadata like hostname, process, classname, etc...}
   spec.homepage      = ""
   spec.license       = "MIT"
 
